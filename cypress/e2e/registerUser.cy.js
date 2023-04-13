@@ -1,5 +1,5 @@
-describe('User registration', () => {
-  it('Registers a new user', () => {
+describe('Contact Us', () => {
+  it('Contact Us Request', () => {
     cy.visit('/')
   })
 })
